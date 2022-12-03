@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-02T12:58:07.036290600Z</date>
+  <millis>1669985887036</millis>
+  <nanos>290600</nanos>
+  <sequence>0</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Старт программы</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.149805Z</date>
+  <millis>1669985887149</millis>
+  <nanos>805000</nanos>
+  <sequence>1</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.151305200Z</date>
+  <millis>1669985887151</millis>
+  <nanos>305200</nanos>
+  <sequence>2</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.151805300Z</date>
+  <millis>1669985887151</millis>
+  <nanos>805300</nanos>
+  <sequence>3</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 69</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.153805500Z</date>
+  <millis>1669985887153</millis>
+  <nanos>805500</nanos>
+  <sequence>4</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 69 с 57</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.155305700Z</date>
+  <millis>1669985887155</millis>
+  <nanos>305700</nanos>
+  <sequence>5</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 69 с 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.157806Z</date>
+  <millis>1669985887157</millis>
+  <nanos>806000</nanos>
+  <sequence>6</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 69 с 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.158806200Z</date>
+  <millis>1669985887158</millis>
+  <nanos>806200</nanos>
+  <sequence>7</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 69 на 81</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.159806300Z</date>
+  <millis>1669985887159</millis>
+  <nanos>806300</nanos>
+  <sequence>8</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 81 с 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.161306500Z</date>
+  <millis>1669985887161</millis>
+  <nanos>306500</nanos>
+  <sequence>9</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 81 с 74</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.163306700Z</date>
+  <millis>1669985887163</millis>
+  <nanos>306700</nanos>
+  <sequence>10</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 81 с 68</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.164806900Z</date>
+  <millis>1669985887164</millis>
+  <nanos>806900</nanos>
+  <sequence>11</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.168307400Z</date>
+  <millis>1669985887168</millis>
+  <nanos>307400</nanos>
+  <sequence>12</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.170807700Z</date>
+  <millis>1669985887170</millis>
+  <nanos>807700</nanos>
+  <sequence>13</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 57</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.171807800Z</date>
+  <millis>1669985887171</millis>
+  <nanos>807800</nanos>
+  <sequence>14</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 57 с 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.173808100Z</date>
+  <millis>1669985887173</millis>
+  <nanos>808100</nanos>
+  <sequence>15</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 57 с 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.175808300Z</date>
+  <millis>1669985887175</millis>
+  <nanos>808300</nanos>
+  <sequence>16</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 57 на 69</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.182309200Z</date>
+  <millis>1669985887182</millis>
+  <nanos>309200</nanos>
+  <sequence>17</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 69 с 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.194810700Z</date>
+  <millis>1669985887194</millis>
+  <nanos>810700</nanos>
+  <sequence>18</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 69 на 74</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.197811100Z</date>
+  <millis>1669985887197</millis>
+  <nanos>811100</nanos>
+  <sequence>19</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 74 с 68</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.199311300Z</date>
+  <millis>1669985887199</millis>
+  <nanos>311300</nanos>
+  <sequence>20</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.201811600Z</date>
+  <millis>1669985887201</millis>
+  <nanos>811600</nanos>
+  <sequence>21</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.203311800Z</date>
+  <millis>1669985887203</millis>
+  <nanos>311800</nanos>
+  <sequence>22</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.203811900Z</date>
+  <millis>1669985887203</millis>
+  <nanos>811900</nanos>
+  <sequence>23</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 47 с 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.207312300Z</date>
+  <millis>1669985887207</millis>
+  <nanos>312300</nanos>
+  <sequence>24</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 47 на 57</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.208312500Z</date>
+  <millis>1669985887208</millis>
+  <nanos>312500</nanos>
+  <sequence>25</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 57 с 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.208812500Z</date>
+  <millis>1669985887208</millis>
+  <nanos>812500</nanos>
+  <sequence>26</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 57 на 69</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.209312600Z</date>
+  <millis>1669985887209</millis>
+  <nanos>312600</nanos>
+  <sequence>27</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 69 с 68</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.209812700Z</date>
+  <millis>1669985887209</millis>
+  <nanos>812700</nanos>
+  <sequence>28</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.212813Z</date>
+  <millis>1669985887212</millis>
+  <nanos>813000</nanos>
+  <sequence>29</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.214313200Z</date>
+  <millis>1669985887214</millis>
+  <nanos>313200</nanos>
+  <sequence>30</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.215313400Z</date>
+  <millis>1669985887215</millis>
+  <nanos>313400</nanos>
+  <sequence>31</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 31 на 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.217813700Z</date>
+  <millis>1669985887217</millis>
+  <nanos>813700</nanos>
+  <sequence>32</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Смена местами 47 с 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.219313900Z</date>
+  <millis>1669985887219</millis>
+  <nanos>313900</nanos>
+  <sequence>33</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 47 на 57</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.220314Z</date>
+  <millis>1669985887220</millis>
+  <nanos>314000</nanos>
+  <sequence>34</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 57 на 68</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.223814400Z</date>
+  <millis>1669985887223</millis>
+  <nanos>814400</nanos>
+  <sequence>35</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.228315Z</date>
+  <millis>1669985887228</millis>
+  <nanos>315000</nanos>
+  <sequence>36</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.231315400Z</date>
+  <millis>1669985887231</millis>
+  <nanos>315400</nanos>
+  <sequence>37</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.251818Z</date>
+  <millis>1669985887251</millis>
+  <nanos>818000</nanos>
+  <sequence>38</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 31 на 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.319826600Z</date>
+  <millis>1669985887319</millis>
+  <nanos>826600</nanos>
+  <sequence>39</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 37 на 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.320826700Z</date>
+  <millis>1669985887320</millis>
+  <nanos>826700</nanos>
+  <sequence>40</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 47 на 57</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.321826900Z</date>
+  <millis>1669985887321</millis>
+  <nanos>826900</nanos>
+  <sequence>41</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.324327200Z</date>
+  <millis>1669985887324</millis>
+  <nanos>327200</nanos>
+  <sequence>42</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.326827500Z</date>
+  <millis>1669985887326</millis>
+  <nanos>827500</nanos>
+  <sequence>43</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.327327600Z</date>
+  <millis>1669985887327</millis>
+  <nanos>327600</nanos>
+  <sequence>44</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 31 на 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.328327700Z</date>
+  <millis>1669985887328</millis>
+  <nanos>327700</nanos>
+  <sequence>45</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 37 на 47</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.329827900Z</date>
+  <millis>1669985887329</millis>
+  <nanos>827900</nanos>
+  <sequence>46</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.330328Z</date>
+  <millis>1669985887330</millis>
+  <nanos>328000</nanos>
+  <sequence>47</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.330328Z</date>
+  <millis>1669985887330</millis>
+  <nanos>328000</nanos>
+  <sequence>48</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.330828Z</date>
+  <millis>1669985887330</millis>
+  <nanos>828000</nanos>
+  <sequence>49</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 31 на 37</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.331828100Z</date>
+  <millis>1669985887331</millis>
+  <nanos>828100</nanos>
+  <sequence>50</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.332328200Z</date>
+  <millis>1669985887332</millis>
+  <nanos>328200</nanos>
+  <sequence>51</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.336828800Z</date>
+  <millis>1669985887336</millis>
+  <nanos>828800</nanos>
+  <sequence>52</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 27 на 31</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.337828900Z</date>
+  <millis>1669985887337</millis>
+  <nanos>828900</nanos>
+  <sequence>53</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.338329Z</date>
+  <millis>1669985887338</millis>
+  <nanos>329000</nanos>
+  <sequence>54</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Без смены 4 на 27</message>
+</record>
+<record>
+  <date>2022-12-02T12:58:07.345329900Z</date>
+  <millis>1669985887345</millis>
+  <nanos>329900</nanos>
+  <sequence>55</sequence>
+  <logger>Homework.JAVA_HW2.Java_HW2_Example002</logger>
+  <level>INFO</level>
+  <class>Homework.JAVA_HW2.Java_HW2_Example002</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Новый проход по массиву</message>
+</record>
+</log>
